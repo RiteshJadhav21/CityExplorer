@@ -1,0 +1,2 @@
+# cityexplorer
+City Explorer provides a convenient platform for users to inquire about services catered and filtered based on city and category choice. Admins, through their conductive one-stop CMS, can add cities and categories, review services, unflag reported services, and edit or delete services. Service providers, through a designated seller portal, can post ads and services. The Web application has role-based login and access. Google OAuth login is also embedded. A dockerized, CI/CD project with tech stack of SpringBoot,Thymeleaf and MySQL.
